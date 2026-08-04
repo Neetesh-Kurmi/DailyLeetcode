@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0392-is-subsequence) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Euclidean Algorithm
 |  |
@@ -35,8 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0392-is-subsequence) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0334-increasing-triplet-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
