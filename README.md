@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0258-add-digits) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1510-stone-game-iv](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0392-is-subsequence) |
+| [1510-stone-game-iv](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Simulation
 |  |
@@ -128,4 +130,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0073-set-matrix-zeroes) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
