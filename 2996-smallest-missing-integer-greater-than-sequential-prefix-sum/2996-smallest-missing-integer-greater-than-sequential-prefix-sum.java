@@ -3,24 +3,18 @@ class Solution {
         int sum =nums[0];
         for(int i = 1;i<nums.length;i++){
             if(nums[i]==nums[i-1]+1){
-                sum+=nums[i];
-                
+                sum+=nums[i];    
             }
-            else {
-                break;
-            }
+            else break;    
         }
         int target = sum;
         HashSet<Integer> set = new HashSet<>();
         for(int num:nums){
             set.add(num);
         }
-        
         while(set.contains(target)){
             target++;
         }
-        
-        return target;
-        
+        return target;   
     }
 }
