@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0392-is-subsequence) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1768-merge-strings-alternately) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Euclidean Algorithm
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0912-sort-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1732-find-the-highest-altitude) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -175,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
