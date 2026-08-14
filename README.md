@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0912-sort-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0901-online-stock-span) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
