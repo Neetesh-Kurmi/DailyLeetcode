@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0735-asteroid-collision) |
 | [0912-sort-an-array](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0912-sort-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0258-add-digits) |
+| [0735-asteroid-collision](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Number Theory
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0901-online-stock-span) |
 | [2390-removing-stars-from-a-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Design
