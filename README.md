@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0912-sort-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0875-koko-eating-bananas) |
 ## Sliding Window
 |  |
 | ------- |
