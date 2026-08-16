@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0258-add-digits) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1510-stone-game-iv](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1510-stone-game-iv) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0242-valid-anagram) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0242-valid-anagram) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1657-determine-if-two-strings-are-close) |
