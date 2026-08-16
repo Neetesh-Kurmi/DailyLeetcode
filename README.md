@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0912-sort-an-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0242-valid-anagram) |
+| [0904-fruit-into-baskets](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0904-fruit-into-baskets) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
