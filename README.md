@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0062-unique-paths) |
 | [0258-add-digits](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0258-add-digits) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1510-stone-game-iv](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1510-stone-game-iv) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0062-unique-paths) |
 | [0338-counting-bits](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0410-split-array-largest-sum) |
@@ -325,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0050-powx-n) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
