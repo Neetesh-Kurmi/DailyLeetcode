@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0014-longest-common-prefix) |
+| [0072-edit-distance](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0242-valid-anagram) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0072-edit-distance) |
 | [0338-counting-bits](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0410-split-array-largest-sum) |
