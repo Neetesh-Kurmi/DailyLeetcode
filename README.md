@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0704-binary-search) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0875-koko-eating-bananas) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0410-split-array-largest-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0605-can-place-flowers) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1903-largest-odd-number-in-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0410-split-array-largest-sum) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1510-stone-game-iv](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
