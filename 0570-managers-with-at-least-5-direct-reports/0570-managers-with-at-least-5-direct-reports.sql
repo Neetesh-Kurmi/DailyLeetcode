@@ -5,6 +5,5 @@ FROM Employee AS e
 JOIN Employee AS m
 ON e.id= m.managerId
 GROUP By
-e.id,
-e.name
+m.managerId
 HAVING COUNT(m.id)>=5;
