@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0901-online-stock-span](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0933-number-of-recent-calls) |
 ## Linked List
 |  |
 | ------- |
@@ -428,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1137-n-th-tribonacci-number) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
