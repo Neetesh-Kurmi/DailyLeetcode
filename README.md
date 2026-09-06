@@ -201,14 +201,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0841-keys-and-rooms](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0841-keys-and-rooms) |
 | [3310-remove-methods-from-project](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0841-keys-and-rooms) |
 | [3310-remove-methods-from-project](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0841-keys-and-rooms) |
 | [3310-remove-methods-from-project](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
