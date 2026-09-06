@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0912-sort-an-array) |
+| [0994-rotting-oranges](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0994-rotting-oranges) |
 | [1207-unique-number-of-occurrences](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1268-search-suggestions-system](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1268-search-suggestions-system) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0994-rotting-oranges) |
 | [3310-remove-methods-from-project](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0073-set-matrix-zeroes) |
+| [0994-rotting-oranges](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0994-rotting-oranges) |
 | [2352-equal-row-and-column-pairs](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Minimax
 |  |
