@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0547-number-of-provinces) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0994-rotting-oranges) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
