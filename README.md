@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1143-longest-common-subsequence) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0940-distinct-subsequences-ii](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
