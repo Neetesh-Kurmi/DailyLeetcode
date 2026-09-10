@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0238-product-of-array-except-self) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0437-path-sum-iii) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0994-rotting-oranges) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0994-rotting-oranges) |
 | [2352-equal-row-and-column-pairs](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Minimax
@@ -541,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0547-number-of-provinces) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
