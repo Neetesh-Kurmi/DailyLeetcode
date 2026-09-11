@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0258-add-digits) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0198-house-robber) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Queue
 |  |
