@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0796-rotate-string) |
+| [0929-unique-email-addresses](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0929-unique-email-addresses) |
 | [0940-distinct-subsequences-ii](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0912-sort-an-array) |
+| [0929-unique-email-addresses](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0929-unique-email-addresses) |
 | [0994-rotting-oranges](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0994-rotting-oranges) |
 | [1207-unique-number-of-occurrences](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1268-search-suggestions-system](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1268-search-suggestions-system) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0242-valid-anagram) |
 | [0904-fruit-into-baskets](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0904-fruit-into-baskets) |
+| [0929-unique-email-addresses](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0929-unique-email-addresses) |
 | [1207-unique-number-of-occurrences](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1386-cinema-seat-allocation) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1657-determine-if-two-strings-are-close) |
