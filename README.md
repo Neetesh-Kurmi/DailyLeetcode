@@ -443,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0021-merge-two-sorted-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Bit Manipulation
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0394-decode-string) |
 ## Combinatorics
