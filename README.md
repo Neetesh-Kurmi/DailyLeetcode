@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0739-daily-temperatures) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
