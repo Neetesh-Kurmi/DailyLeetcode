@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0168-excel-sheet-column-title) |
+| [0231-power-of-two](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0258-add-digits) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1386-cinema-seat-allocation) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0394-decode-string) |
 ## Combinatorics
 |  |
