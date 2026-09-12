@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0415-add-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1510-stone-game-iv](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1510-stone-game-iv) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0399-evaluate-division) |
+| [0415-add-strings](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0796-rotate-string) |
 | [0929-unique-email-addresses](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0929-unique-email-addresses) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2390-removing-stars-from-a-string) |
