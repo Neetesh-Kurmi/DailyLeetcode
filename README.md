@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0399-evaluate-division) |
 | [0415-add-strings](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0443-string-compression) |
+| [0541-reverse-string-ii](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0796-rotate-string) |
 | [0929-unique-email-addresses](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0929-unique-email-addresses) |
 | [0940-distinct-subsequences-ii](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0443-string-compression) |
+| [0541-reverse-string-ii](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0541-reverse-string-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1768-merge-strings-alternately) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
