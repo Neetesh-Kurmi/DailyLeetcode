@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2029-stone-game-ix) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2542-maximum-subsequence-score](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2542-maximum-subsequence-score) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Longest Increasing Subsequence
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Simulation
