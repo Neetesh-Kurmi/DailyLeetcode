@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1510-stone-game-iv](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1510-stone-game-iv) |
@@ -691,4 +692,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0141-linked-list-cycle) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
