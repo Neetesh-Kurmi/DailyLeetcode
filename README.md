@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1268-search-suggestions-system) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1768-merge-strings-alternately) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1386-cinema-seat-allocation](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2029-stone-game-ix) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0912-sort-an-array) |
 | [1268-search-suggestions-system](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1268-search-suggestions-system) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
