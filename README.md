@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -709,4 +710,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
