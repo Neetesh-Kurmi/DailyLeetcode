@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0072-edit-distance) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0072-edit-distance) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0735-asteroid-collision) |
@@ -619,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
