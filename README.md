@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0541-reverse-string-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0796-rotate-string) |
 | [0929-unique-email-addresses](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0929-unique-email-addresses) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1386-cinema-seat-allocation](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1386-cinema-seat-allocation) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0940-distinct-subsequences-ii](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0901-online-stock-span) |
@@ -623,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
