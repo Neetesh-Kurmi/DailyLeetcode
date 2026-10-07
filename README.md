@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0168-excel-sheet-column-title) |
 | [0208-implement-trie-prefix-tree](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0392-is-subsequence) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0994-rotting-oranges) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0022-generate-parentheses) |
 | [0216-combination-sum-iii](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Divide and Conquer
