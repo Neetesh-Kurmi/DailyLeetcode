@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2542-maximum-subsequence-score) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2029-stone-game-ix) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2542-maximum-subsequence-score](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2542-maximum-subsequence-score) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Database
 |  |
