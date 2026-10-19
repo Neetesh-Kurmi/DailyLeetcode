@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2542-maximum-subsequence-score) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sliding Window
