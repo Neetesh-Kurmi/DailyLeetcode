@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3525-find-x-value-of-array-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
