@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3665-twisted-mirror-path-count) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2352-equal-row-and-column-pairs](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [3665-twisted-mirror-path-count](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3665-twisted-mirror-path-count) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Minimax
 |  |
 | ------- |
@@ -630,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Database
 |  |
 | ------- |
