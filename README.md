@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1268-search-suggestions-system](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1268-search-suggestions-system) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0680-valid-palindrome-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1768-merge-strings-alternately) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0912-sort-an-array) |
 | [1096-brace-expansion-ii](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1096-brace-expansion-ii) |
 | [1268-search-suggestions-system](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1268-search-suggestions-system) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0875-koko-eating-bananas) |
 | [1268-search-suggestions-system](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1268-search-suggestions-system) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
