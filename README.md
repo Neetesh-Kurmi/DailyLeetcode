@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0268-missing-number) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Neetesh-Kurmi/DailyLeetcode/tree/master/0345-reverse-vowels-of-a-string) |
